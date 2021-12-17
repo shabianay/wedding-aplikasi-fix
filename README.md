@@ -1,1 +1,1 @@
-# wedding-aplikasi-fix
+# wedding-app
